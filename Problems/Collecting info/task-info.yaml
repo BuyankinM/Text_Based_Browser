@@ -1,0 +1,17 @@
+type: code
+files:
+- name: task.py
+  visible: true
+  text: |-
+    import numpy as np
+
+    def collect_info(array):
+        ...
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/9678
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/9678">JetBrains
+    Academy</a></html>
+  time: Fri, 10 Jul 2020 10:24:59 UTC
+record: -1
